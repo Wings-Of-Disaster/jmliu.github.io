@@ -8,5 +8,5 @@ nav_order: 6
 
 - Conference Reviewer:
   - 2027: AAAI, MMM
-  - 2026: ICME, SMC, AAAI, NeurIPS
+  - 2026: AAAI, ICME, NeurIPS, SMC
   - 2025: ICME, SMC
